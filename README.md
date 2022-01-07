@@ -1,4 +1,4 @@
-### Oh hello there 👋 !
+# Oh hello there 👋 !
 
 <!---
 NathanVanson/NathanVanson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
