@@ -1,6 +1,23 @@
 # Oh, hello there 👋 !
 
-### Programming Language
+I am a bachelor student in computer science at the university of Geneva (UNIGE). In spite of the immense laziness that I possess, I try at least to learn and to improve myself (lol) in the programming languages
+
+🌱 I’m currently learning Python, C, Matlab and soon Java (for the 2nd semester)
+
+### Current Programming Language 💻
+
+- Python 🐍
+- C 🇨
+- Swift (wtf is that ?!) 🐤
+- MatLab 🧮
+
+### Activities 📋
+
+- Video Games (Monster Hunter Speedrunner, RL C2) 🎮
+- Anime 🌄
+- Sport -> Basketball 🏀🏊
+- Music (Spotify always) 🎧
+- Youtube (For record MH or RocketLeague) 🎬
 
 <!---
 NathanVanson/NathanVanson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
