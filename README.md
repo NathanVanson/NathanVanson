@@ -1,4 +1,6 @@
-# Oh hello there 👋 !
+# Oh, hello there 👋 !
+
+### Programming Language
 
 <!---
 NathanVanson/NathanVanson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
