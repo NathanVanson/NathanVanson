@@ -21,8 +21,8 @@ I am a bachelor student in computer science at the university of Geneva (UNIGE).
 
 ### Languages and Tools :
 
-![image](https://user-images.githubusercontent.com/91824509/155975553-51b6871b-ef52-4eb5-a9a9-d9e8ff24a842.png)
-
+![image](https://user-images.githubusercontent.com/91824509/155975787-d9b6bad7-e1fa-4af6-ad14-d645b3c65d81.png)
+![image](https://user-images.githubusercontent.com/91824509/155976115-a59b73f6-8069-495f-abb1-f8b5577e79b5.png)
 
 <!---
 NathanVanson/NathanVanson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
