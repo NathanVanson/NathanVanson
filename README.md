@@ -2,14 +2,7 @@
 
 I am a bachelor student in computer science at the university of Geneva (UNIGE). In spite of the immense laziness that I possess, I try at least to learn and to improve myself (lol) in the programming languages
 
-🌱 I’m currently learning Python, C, Matlab and soon Java (for the 2nd semester)
-
-### Current Programming Language 💻
-
-- Python 🐍
-- C 🇨
-- Swift (wtf is that ?!) 🐤
-- MatLab 🧮
+🌱 I’m currently learning Python, and soon Java (for the 2nd semester)
 
 ### Activities 📋
 
@@ -24,7 +17,7 @@ I am a bachelor student in computer science at the university of Geneva (UNIGE).
 ![image](https://user-images.githubusercontent.com/91824509/155976337-5ea517c2-3b1b-4ddd-94d3-262b6d0e4260.png)
 ![image](https://user-images.githubusercontent.com/91824509/155976115-a59b73f6-8069-495f-abb1-f8b5577e79b5.png)
 ![image](https://user-images.githubusercontent.com/91824509/155976938-7f42f9b5-4752-4d87-b577-965107e70825.png)
-![image](https://user-images.githubusercontent.com/91824509/155977197-db1cb5e4-604d-49cd-a6e5-7c10c323c702.png)
+![image](https://user-images.githubusercontent.com/91824509/155977345-a80c652b-209c-4013-b837-ef958b743a37.png)
 
 <!---
 NathanVanson/NathanVanson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
