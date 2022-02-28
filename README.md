@@ -17,7 +17,7 @@ I am a bachelor student in computer science at the university of Geneva (UNIGE).
 ![image](https://user-images.githubusercontent.com/91824509/155976337-5ea517c2-3b1b-4ddd-94d3-262b6d0e4260.png)
 ![image](https://user-images.githubusercontent.com/91824509/155976115-a59b73f6-8069-495f-abb1-f8b5577e79b5.png)
 ![image](https://user-images.githubusercontent.com/91824509/155976938-7f42f9b5-4752-4d87-b577-965107e70825.png)
-![image](https://user-images.githubusercontent.com/91824509/155980487-34c5404b-9a7d-44c6-8191-9bca9ccd87b8.png)
+![image](https://user-images.githubusercontent.com/91824509/155980991-4444ae28-504d-486f-93a1-44ffe6f15a82.png)
 
 <!---
 NathanVanson/NathanVanson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
