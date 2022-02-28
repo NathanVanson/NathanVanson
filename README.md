@@ -19,6 +19,10 @@ I am a bachelor student in computer science at the university of Geneva (UNIGE).
 - Music (Spotify always) 🎧
 - Youtube (For record MH or RocketLeague) 🎬
 
+### Languages and Tools :
+
+![image](https://user-images.githubusercontent.com/91824509/155974404-82d2780b-8b64-40ac-b739-b3f7b4628804.png)
+
 <!---
 NathanVanson/NathanVanson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
