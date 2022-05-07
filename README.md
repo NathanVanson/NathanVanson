@@ -1,4 +1,4 @@
-# Oh, hello there 👋 !
+# Hi there 👋 !
 
 I am a bachelor student in computer science at the university of Geneva (UNIGE). In spite of the immense laziness that I possess, I try at least to learn and to improve myself (lol) in the programming languages
 
