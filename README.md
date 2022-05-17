@@ -1,8 +1,6 @@
 # Hi there 👋 !
 
-I am a bachelor student in computer science at the university of Geneva (UNIGE).
-
-🌱 I’m currently learning Python, and soon Java (for the 2nd semester)
+I am a bachelor student in computer science at the university of Geneva (UNIGE)
 
 ### Activities 📋
 
