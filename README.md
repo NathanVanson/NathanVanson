@@ -4,11 +4,11 @@ I am a bachelor student in computer science at the university of Geneva (UNIGE)
 
 ### Activities 📋
 
-- Video Games (Monster Hunter Speedrunner, RL C2) 🎮
+- Video Games 🎮
 - Anime 🌄
-- Sport -> Basketball 🏀🏊
-- Music (Spotify always) 🎧
-- Youtube (For record MH or RocketLeague) 🎬
+- Sport 🏀🏊
+- Music 🎧
+- Youtube 🎬
 
 ### Languages / Tools :
 
